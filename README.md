@@ -45,7 +45,7 @@
 
 
 
-![Vanshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username= vanshika-code06 &show_icons=true&theme=tokyonight)
+![Vanshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshika-code06&show_icons=true&theme=tokyonight)
 
 
 
@@ -57,7 +57,7 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-] https://www.linkedin.com/in/vanshika-824009382?utm_source=share_via&utm_content=profile&utm_medium=member_android
+]https://www.linkedin.com/in/vanshika-824009382?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
