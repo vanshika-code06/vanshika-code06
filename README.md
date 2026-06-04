@@ -1,34 +1,64 @@
 # Hi there, I'm Vanshika! 👋🌸
 
-🎓 B.Tech CSE Student | Batch 2026-2030
-📍 Uttar Pradesh, India
-💻 Aspiring Software Developer
-🌱 Currently Learning: Python & Programming Basics
-🎯 Goal: Land my first internship by 2nd year!
 
-## 🛠️ Skills
-- MS Office
-- Canva
-- Basic Computer Skills
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64FFDA&width=435&lines=Aspiring+Software+Developer+🚀;B.Tech+CSE+Student+2026-2030;Learning+to+Code+Every+Day!;Let's+Connect+and+Grow+Together!)
+
+
+
+---
+
+🎓 *Degree:* B.Tech CSE | Batch 2026-2030  
+📍 *Location:* Uttar Pradesh, India  
+💻 *Goal:* Aspiring Software Developer  
+🌱 *Currently Learning:* Python & Programming Basics  
+🎯 *Target:* First Internship by 2nd Year!  
+
+---
+
+## 🛠️ Skills & Tools
+
+
+
+![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+
+
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+
+
+
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+---
+
+## 📊 GitHub Stats
+
+
+
+![Vanshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username= vanshika-code06 &show_icons=true&theme=tokyonight)
+
+
+
+---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/vanshika-824009382?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-## ⚡ Fun Fact
-I started my coding journey in 2026
-and I'm just getting started! 🚀
+[
 
-<!--
-**vanshika-code06/vanshika-code06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-Here are some ideas to get you started:
+] https://www.linkedin.com/in/vanshika-824009382?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐ "Every expert was once a beginner!" ⭐
