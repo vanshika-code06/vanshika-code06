@@ -1,11 +1,9 @@
-
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:FF2E9F&height=280&section=header&text=Vanshika%20&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:FF2E9F&height=280&section=header&text=Vanshika&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Vanshika+Singh;Software+%26+Backend+Developer;CSE+Undergrad+%40+VIT+Bhopal;Building+Clean%2C+Scalable+Systems;Open+Source+Enthusiast+%F0%9F%92%99" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Vanshika;Software+%26+Backend+Developer;CSE+Undergrad+%40+VIT+Bhopal;Building+Clean%2C+Scalable+Systems;Open+Source+Enthusiast+%F0%9F%92%99" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -162,6 +160,17 @@ I believe the best code is written twice: once to make it work, and once to make
 *⭐ Thanks for visiting my profile — let's build something great together!*
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
